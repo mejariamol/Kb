@@ -1,3 +1,5 @@
+![kb logo](assets/kb.png)
+
 ## Kb PC Client
 
 This is a **client side, windows console application** for an android app **Kb-The Soft Keyboard**. The Android Application provides a **wireless keyboard/mouse interface** for a windows operating system.
