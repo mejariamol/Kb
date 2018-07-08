@@ -6,7 +6,10 @@ This is a **client side windows console application** for an android app **Kb-Th
 
 ### How to use:
 
-1. First of all, install Kb (the android app) on your android device. The app is available on Google Play Store. The link is given below.
+1. First of all, install Kb (the android app) on your android device. The app is available on Google Play Store.
+
+<a href='https://play.google.com/store/apps/details?id=com.indusnode.kb'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80"/></a>
+
 2. Download the zip file, named **Kb PC Client** from _releases page_ of this repository and run the .exe file on your windows PC.
 4. The android device and the PC must be connected to the same network. For example, if you are using a wireless network then the device and PC must be connected to that wireless network.
 3. On running the .exe file, a console application opens up on the PC which will display the **IP Address** which is used to connect your android app to your PC.
